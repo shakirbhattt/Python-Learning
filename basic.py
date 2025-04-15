@@ -1,2 +1,2 @@
-print("I am Noob")dbjabd
+print("I am Noob")
 

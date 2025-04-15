@@ -1,0 +1,5 @@
+count = 100 #integres (numbers)
+rating = 1.2 #float(decimal)
+is_published = True #booleans ( decision making first capital always T )
+course = "Python programming" # string (text)
+print(count , rating , is_published , course)
