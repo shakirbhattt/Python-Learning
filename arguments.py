@@ -7,7 +7,7 @@ def greet(first , last):
 greet("shakir" , "bhat")
 
 
-# keyword arguments to make core more readable
+# keyword arguments to make code more readable
 def increment (number , by):
     return number + by 
 
